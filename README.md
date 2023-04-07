@@ -1,14 +1,8 @@
 # my_website
 
-### Contributor
+### Project
+Design web App with Post system, comment system, chat
 
+
+### Group
 Jingyi Irina
-
-
-
-### Purpose
-
-Design a personal website for practice
-
-
-
