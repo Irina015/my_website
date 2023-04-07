@@ -3,3 +3,7 @@
 
 ### Project
 Design web App with Post system, comment system, chat
+
+
+### Group
+Jingyi Irina
