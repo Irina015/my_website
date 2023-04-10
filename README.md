@@ -12,3 +12,5 @@ Jingyi Irina
 ### Task
 
 1. Work on Auth
+2. Try pull request
+3. Edit the ReadMe
