@@ -14,3 +14,7 @@ Jingyi Irina
 1. Work on Auth
 2. Try pull request
 3. Edit the ReadMe
+
+
+### Description
+The website is version 1.0;
