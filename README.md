@@ -22,3 +22,5 @@ version 2.0
 
 1. use new branch name "mysmile15"
 2. try to upload
+
+3. After success, try merge to main
