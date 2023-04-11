@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3e92e53-eb8d-442c-9b6e-8ea78ad3651b" name="Changes" comment="add &quot;pull request&quot;" />
+    <list default="true" id="a3e92e53-eb8d-442c-9b6e-8ea78ad3651b" name="Changes" comment="add &quot;website version 1.0&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681169961055</updated>
       <workItem from="1681169964254" duration="30000" />
-      <workItem from="1681170030976" duration="765000" />
+      <workItem from="1681170030976" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="add &quot;pull request&quot;">
       <created>1681170260645</created>
@@ -71,14 +71,33 @@
       <option name="project" value="LOCAL" />
       <updated>1681170322850</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add &quot;website version 1.0&quot;">
+      <created>1681171051709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681171051709</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add &quot;pull request&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;pull request&quot;" />
+    <MESSAGE value="add &quot;website version 1.0&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;website version 1.0&quot;" />
   </component>
 </project>
