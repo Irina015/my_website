@@ -1,0 +1,20 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># my_website\n\n### Project\nDesign web App with Post system, comment system, chat\n\n\n### Group\nJingyi Irina\n\n\n\n### Task\n\n1. Work on Auth\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision f23a3ad4394c20a8edc168c70b256d89a54a9652)
++++ b/README.md	(date 1681360518755)
+@@ -11,4 +11,7 @@
+ 
+ ### Task
+ 
+-1. Work on Auth
++1. use new branch name "mysmile15"
++2. try to upload
++
++3. After success, try merge to main
+\ No newline at end of file
